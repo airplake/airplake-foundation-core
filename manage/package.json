@@ -1,0 +1,15 @@
+{
+  "name": "manage",
+  "version": "1.0.0",
+  "description": "Management script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wenqing Yu",
+  "license": "ISC",
+  "dependencies": {
+    "camo": "^0.12.3",
+    "nedb": "^1.8.0"
+  }
+}
